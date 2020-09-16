@@ -9,3 +9,4 @@ Solved Exercises:
     Day 04 - Array Cardio 1 (https://www.youtube.com/watch?v=HB1ZC7czKRs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=5)
     Day 05 - Flex Panel Gallery (https://www.youtube.com/watch?v=9eif30i26jg&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=6&t=0s)
     Day 06 - Ajax Type Ahead (https://www.youtube.com/watch?v=y4gZMJKAeWs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=6)
+    Day 07 - Array Cardio 7 (https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=8&t=0s)
