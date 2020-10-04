@@ -12,3 +12,4 @@ Solved Exercises:
     Day 07 - Array Cardio 2 (https://www.youtube.com/watch?v=QNmRfyNg1lw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=8&t=0s)
     Day 08 - Fun with HTML5 Canvas (https://www.youtube.com/watch?v=8ZGAzJ0drl0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=8)
     Day 09 - Dev Tools Domination (https://www.youtube.com/watch?v=xkzDaKwinA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=9)
+    Day 10 - Hold shift and check multiple checkboxes (https://www.youtube.com/watch?v=RIPYsKx1iiU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=10)
