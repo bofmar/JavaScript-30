@@ -1,7 +1,7 @@
-Solutions for the exercises from Javascript 30
+# Solutions for the exercises from Javascript 30
 ***********************************************
 
-Solved Exercises:
+## Solved Exercises:
 *****************
 1. [Day 01 - Drum Kit](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 1. [Day 02 - JS and CSS Clock](https://www.youtube.com/watch?v=xu87YWbr4X0&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=3)
