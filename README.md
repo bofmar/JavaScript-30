@@ -15,3 +15,4 @@
 1. [Day 11 - Custom Video Player](https://www.youtube.com/watch?v=yx-HYerClEA&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=11)
 1. [Day 12 - Key Sequence Detection](https://www.youtube.com/watch?v=_A5eVOIqGLU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=12)
 1. [Day 13 - Slide in on scroll](https://www.youtube.com/watch?v=uzRsENVD3W8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=13)
+1. [Day 14 - Objects and Arrays - Reference vs Copy](https://www.youtube.com/watch?v=YnfwDQ5XYF4&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=14)
