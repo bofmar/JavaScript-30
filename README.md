@@ -13,3 +13,4 @@
 1. [Day 09 - Dev Tools Domination](https://www.youtube.com/watch?v=xkzDaKwinA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=9)
 1. [Day 10 - Hold shift and check multiple checkboxes](https://www.youtube.com/watch?v=RIPYsKx1iiU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=10)
 1. [Day 11 - Custom Video Player](https://www.youtube.com/watch?v=yx-HYerClEA&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=11)
+1. [Day 12 - Key Sequence Detection](https://www.youtube.com/watch?v=_A5eVOIqGLU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=12)
