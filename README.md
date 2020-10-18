@@ -16,3 +16,4 @@
 1. [Day 12 - Key Sequence Detection](https://www.youtube.com/watch?v=_A5eVOIqGLU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=12)
 1. [Day 13 - Slide in on scroll](https://www.youtube.com/watch?v=uzRsENVD3W8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=13)
 1. [Day 14 - Objects and Arrays - Reference vs Copy](https://www.youtube.com/watch?v=YnfwDQ5XYF4&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=14)
+1. [Day 15 - Local Storage](https://www.youtube.com/watch?v=YL1F4dCUlLc&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=15)
