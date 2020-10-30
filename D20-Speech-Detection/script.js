@@ -13,6 +13,12 @@ recognition.addEventListener('result', e => {
     p = document.createElement('p');
     words.appendChild(p);
   }
+  if(transcript.includes("weather")){
+    window.open("https://www.accuweather.com/en/cy/famagusta/122484/weather-forecast/122484"),"_blank";
+  }
+  if(transcript.includes("Wikipedia")){
+    window.open("https://www.wikipedia.org/","_blank");
+  }
 });
 
 recognition.addEventListener('end', recognition.start);
