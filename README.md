@@ -23,3 +23,4 @@
 1. [Day 19 - Webcam Fun](https://www.youtube.com/watch?v=ElWFcBlVk-o&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=19)
 1. [Day 20 - Speech Detection](https://www.youtube.com/watch?v=0mJC0A72Fnw&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=20)
 1. [Day 21 - Geolocation](https://www.youtube.com/watch?v=X7Cbtra0C6I&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=21)
+1. [Day 22 - Follow Along Links](https://www.youtube.com/watch?v=POP_qri7RA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=22)
