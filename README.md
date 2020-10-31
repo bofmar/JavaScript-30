@@ -26,3 +26,4 @@
 1. [Day 22 - Follow Along Links](https://www.youtube.com/watch?v=POP_qri7RA8&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=22)
 1. [Day 23 - Speech Synthesis](https://www.youtube.com/watch?v=saCpKH_xdgs&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=23)
 1. [Day 24 - Sticky Nav](https://www.youtube.com/watch?v=5FLOBCGH3_U&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=24)
+1. [Day 25 - Event Capture, Propagation, Bubbling and Once](https://www.youtube.com/watch?v=F1anRyL37lE&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=25)
