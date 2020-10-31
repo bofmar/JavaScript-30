@@ -28,3 +28,4 @@
 1. [Day 24 - Sticky Nav](https://www.youtube.com/watch?v=5FLOBCGH3_U&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=24)
 1. [Day 25 - Event Capture, Propagation, Bubbling and Once](https://www.youtube.com/watch?v=F1anRyL37lE&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=25)
 1. [Day 26 - Stripe Follow Along Nav](https://www.youtube.com/watch?v=GvuWJSXYQDU&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=26)
+1. [Day 27 - Click and Drag](https://www.youtube.com/watch?v=C9EWifQ5xqA&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=27)
