@@ -11,6 +11,5 @@ speed.addEventListener("mousemove", function(e){
   bar.style.height = height;
   const playbackRate = percent * (max - min) + min;
   bar.textContent = playbackRate.toFixed(2) + "X";
-
   video.playbackRate = playbackRate;
 })
